@@ -1,4 +1,4 @@
-fn main() {
+fn dice() {
     let dice_roll = 9;
 
 match dice_roll {
